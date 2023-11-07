@@ -1,38 +1,45 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="addonDecorator">
-    <Position X="2.75" Y="0.5" Width="1.5" />
+    <Position X="5.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>addonDecorator.h</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="caramel">
-    <Position X="4.5" Y="2.25" Width="1.5" />
+    <Position X="6.75" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAABAAAAAAAAAAAAAgIAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>addonDecorator.h</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Espresso">
-    <Position X="0.5" Y="2.25" Width="1.5" />
+  <Class Name="Tea">
+    <Position X="0.75" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>IBevrage.h</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="IBevrage">
-    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Position X="0.75" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>IBevrage.h</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="milk">
-    <Position X="2.5" Y="2.25" Width="1.5" />
+    <Position X="4.5" Y="2.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAgAAAAAAAAAAAAAAAAgIAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>addonDecorator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Espresso">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IBevrage.h</FileName>
     </TypeIdentifier>
   </Class>
   <Font Name="Segoe UI" Size="9" />

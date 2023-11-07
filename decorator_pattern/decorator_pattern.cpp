@@ -11,9 +11,15 @@ int main()
     caramel my_caramel(expressoo_start);
 
     milk added_milk(my_caramel);
-    printf("%d\n", my_caramel.get_cost());
+    printf("cost of espresso with caremel %d\n", my_caramel.get_cost());
 
-    printf("%d\n", added_milk.get_cost());
+    printf("cost of espresso with caremel and milk %d\n", added_milk.get_cost());
+
+    Tea tea_base;
+
+    milk tea_milk(tea_base);
+    printf("cost of tea with milk %d\n", tea_milk.get_cost());
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

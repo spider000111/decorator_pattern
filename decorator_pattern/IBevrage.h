@@ -17,4 +17,15 @@ private:
 
 };
 
+class Tea :public IBevrage
+{
+	//this is a base class to start decorator
+public:
+	int get_cost() {
+		return 3;
+	}
+
+private:
+
+};
 
